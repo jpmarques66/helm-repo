@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  docker-registry-cmy:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-18T10:50:49.269238694Z"
+    dependencies:
+    - name: docker-registry
+      repository: ""
+      version: 1.9.6
+    description: Docker-registry chart tailored to Cloudmobility
+    digest: 87c8c961e079610972aae134390482a7efebbb7a9241d662fc9211c26498c960
+    icon: https://hub.docker.com/public/images/logos/mini-logo.svg
+    maintainers:
+    - email: j.marques@kigroup.de
+      name: João Marques
+    name: docker-registry-cmy
+    type: application
+    urls:
+    - https://jpmarques66.github.io/helm-repo/docker-registry-cmy-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-18T10:50:49.267472538Z"
