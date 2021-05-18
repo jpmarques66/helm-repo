@@ -1,0 +1,6 @@
+dependencies:
+- name: docker-registry
+  repository: ""
+  version: 1.9.6
+digest: sha256:cadcf2c7361f14e4531d57fdd78a6b7eb03159693e92b924c377922a004da2c0
+generated: "2021-05-18T11:49:31.784893+01:00"
